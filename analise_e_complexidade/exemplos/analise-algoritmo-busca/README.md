@@ -8,13 +8,13 @@ Neste exemplo pude aprender sobre o problema da busca que envolve a localizaçã
 - **Busca Linear em Lista Ordenada:** Semelhante à busca linear, mas aproveita a ordenação da lista para encerrar a busca assim que encontra um elemento maior que o desejado.
 - **Busca Binária:** Um algoritmo eficiente para listas ordenadas, dividindo o espaço de busca pela metade a cada iteração.
 
-Cada algoritmo foi implementado em Python, e os códigos-fonte podem ser encontrados neste mesmo diretório nos arquivos `analise_algoritmo_busca.py` e seu respectivo teste `analise_algoritmo_busca_test.py`.
+Cada algoritmo foi implementado em Python, e os códigos-fonte podem ser encontrados neste mesmo diretório nos arquivos `/python/analise_algoritmo_busca.py` e seu respectivo teste `/python/analise_algoritmo_busca_test.py`.
 
 ## Análise de Desempenho
 
 Gerei uma lista de 100.00 números (numeros.txt) e em uma das execuções dos testes fiz o seguinte print:
 
-![Alt text](image.png)
+![Alt text](/util/imagens/exemplo-execucao-buscas.png)
 
 ### Busca binária
 

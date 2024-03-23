@@ -24,7 +24,7 @@ A imutabilidade do tamanho de vetores e matrizes, assim como sua homogeneidade, 
 ## Terminologia
 
 ### Vetor
-![vetor](/estruturas_de_dados/array/vetor-terminologia.png)
+![vetor](/util/imagens/vetor-terminologia.png)
 
 - **elemento:** dado armazenado em uma posição do vetor.
 - **tamanho:** total de elementos que o vetor pode ser capaz de armazenar.
@@ -35,7 +35,7 @@ Na imagem acima, temos o exemplo de um vetor de tamanho 10 o qual tem suas posi�
 ### Matriz
 Na Matriz, os conceitos de elemento, tamanho e índice, são os mesmos do Vetor. No entanto. a forma de atribuição e localizar um elemento é diferente, pois temos uma estrutura bidimensional ou multidimensional.
 
-![matriz](/estruturas_de_dados/array/matriz-terminologia.png)
+![matriz](/util/imagens/matriz-terminologia.png)
 
 Na imagem acima, temos uma matriz de tamanho 4x2. Nela existem 5 elementos, `["A", "B", "D", "E",  "F"]` e eles ocupam respectivamente as posições `[0,0], [0,1], [0,3], [1,1], [1,2]`.
 
