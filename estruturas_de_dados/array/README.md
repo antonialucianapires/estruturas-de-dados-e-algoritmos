@@ -46,3 +46,5 @@ Na imagem acima, temos uma matriz de tamanho 4x2. Nela existem 5 elementos, `["A
 [Estruturas de Dados - Thiago Leite e Carvalho](https://www.casadocodigo.com.br/products/livro-estruturas-de-dados)
 
 [Listas Baseadas em Arrays (Array List)](https://joaoarthurbm.github.io/eda/posts/arraylist/)
+
+Deitel, P. J., & Deitel, H. M. (2018). Java Como Programar (10ª ed.). Pearson.
