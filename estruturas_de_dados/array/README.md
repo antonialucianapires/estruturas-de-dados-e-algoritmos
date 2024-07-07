@@ -5,9 +5,7 @@ Vetores e matrizes são estruturas homogêneas de dados em computação, ambos c
 #### Semelhanças
 
 - **Homogeneidade:** Cada array armazena elementos de um único tipo de dado.
-
 - **Armazenamento Contíguo:** Eles mantêm os elementos sequencialmente na memória.
-
 - **Índices:** Os elementos são acessíveis via índices numéricos.
 - **Tamanho Fixo:** A capacidade de um array é definida na criação e não muda.
 

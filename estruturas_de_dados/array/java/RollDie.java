@@ -1,3 +1,5 @@
+import java.security.SecureRandom;
+
 /**
  * Esta classe simula o lançamento de um dado e registra a frequência de cada face.
  * A simulação usa a classe SecureRandom para gerar números aleatórios representando
